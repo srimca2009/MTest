@@ -1,0 +1,12 @@
+D:\Sample Projects\MTest\MTest.Repository\bin\Debug\netcoreapp2.2\MTest.Repository.deps.json
+D:\Sample Projects\MTest\MTest.Repository\bin\Debug\netcoreapp2.2\MTest.Repository.dll
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.csprojAssemblyReference.cache
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.csproj.CoreCompileInputs.cache
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.AssemblyInfoInputs.cache
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.AssemblyInfo.cs
+D:\Sample Projects\MTest\MTest.Repository\bin\Debug\netcoreapp2.2\MTest.Repository.pdb
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.dll
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.pdb
+D:\Sample Projects\MTest\MTest.Repository\bin\Debug\netcoreapp2.2\MTest.Model.dll
+D:\Sample Projects\MTest\MTest.Repository\bin\Debug\netcoreapp2.2\MTest.Model.pdb
+D:\Sample Projects\MTest\MTest.Repository\obj\Debug\netcoreapp2.2\MTest.Repository.csproj.CopyComplete

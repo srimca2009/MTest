@@ -1,0 +1,14 @@
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Service.deps.json
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Service.dll
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Service.pdb
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Repository.dll
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Repository.pdb
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.csprojAssemblyReference.cache
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.csproj.CoreCompileInputs.cache
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.AssemblyInfoInputs.cache
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.AssemblyInfo.cs
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.csproj.CopyComplete
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.dll
+D:\Sample Projects\MTest\MTest.Service\obj\Debug\netcoreapp2.2\MTest.Service.pdb
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Model.dll
+D:\Sample Projects\MTest\MTest.Service\bin\Debug\netcoreapp2.2\MTest.Model.pdb

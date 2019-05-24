@@ -1,0 +1,8 @@
+D:\Sample Projects\MTest\MTest.Model\bin\Debug\netcoreapp2.2\MTest.Model.deps.json
+D:\Sample Projects\MTest\MTest.Model\bin\Debug\netcoreapp2.2\MTest.Model.dll
+D:\Sample Projects\MTest\MTest.Model\bin\Debug\netcoreapp2.2\MTest.Model.pdb
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.csproj.CoreCompileInputs.cache
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.AssemblyInfoInputs.cache
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.AssemblyInfo.cs
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.dll
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.pdb
