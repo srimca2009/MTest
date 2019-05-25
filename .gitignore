@@ -1,5 +1,15 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+*.suo
+*.dll
+*.pubxml.user
 
-/MTest.Service/obj/Release/netcoreapp2.2
+*/**/bin/**/
+*/**/obj/**/
+
+packages/**/
+
+*/**/*.user
+*/**/*.cache
+.vs/
+packages/
+Angular/
+
