@@ -6,3 +6,4 @@ D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.Assembl
 D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.AssemblyInfo.cs
 D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.dll
 D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.pdb
+D:\Sample Projects\MTest\MTest.Model\obj\Debug\netcoreapp2.2\MTest.Model.csprojAssemblyReference.cache
